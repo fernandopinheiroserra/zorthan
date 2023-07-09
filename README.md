@@ -6,7 +6,7 @@ Run the file and despair!! ^^
 
 It´s a simple use of the random.choice of the mighty PYTHON!!
 
-Enjoy!
+Enjoy the ride!
 
 
 Fernando Serra
